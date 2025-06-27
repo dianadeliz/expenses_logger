@@ -92,7 +92,11 @@ lib/
 ---
 
 ## 📱 Screenshots
-_Add screenshots here if desired_
+<img width="1423" alt="Screenshot 2025-06-26 at 11 38 16 PM" src="https://github.com/user-attachments/assets/0a2ce64f-8e34-4752-939a-0aaf748494f7" />
+
+<br>
+<br>
+<img width="385" alt="Screenshot 2025-06-26 at 11 58 40 PM" src="https://github.com/user-attachments/assets/0030a0c3-47f5-4cb0-b143-cd70411dfe92" />
 
 ---
 

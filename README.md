@@ -49,6 +49,16 @@ A cross-platform Flutter app to log, view, and manage your personal expenses wit
 
 ---
 
+## 🔒 Security Notice
+
+**IMPORTANT**: Firebase configuration files contain sensitive API keys and should never be committed to version control.
+
+- Template files are provided: `GoogleService-Info.plist.template` and `google-services.json.template`
+- Replace the template files with your actual Firebase configuration files
+- These files are already excluded from version control via `.gitignore`
+
+---
+
 ## 📁 Project Structure
 ```
 lib/
@@ -88,6 +98,7 @@ lib/
 ## 🔒 Security
 - All user data is stored securely in Firestore, scoped to each user's UID
 - Authentication is handled by Firebase Auth
+- Firebase configuration files are excluded from version control
 
 ---
 
